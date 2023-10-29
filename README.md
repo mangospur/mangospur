@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mangospur
 - 👀 I’m interested in developing my IT, InfoSec, & programming skills.
-- 🌱 I’m currently learning the fundamentals. 
+- 🌱 I’m currently learning the fundamentals of IT. 
 - 💞️ I’m looking to collaborate once I've got the basics!
 - 📫 How to reach me... here, somewhere. 
 
